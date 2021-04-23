@@ -8,7 +8,7 @@
 1.点击fork按钮将工程复制到你的仓库 
 ![fork](https://tva1.sinaimg.cn/large/0062ozFkgy1gkuqaddg5aj31hc03vglw.jpg)
 
-2.获取 SCKEY
+2.获取 SCKEY（不要了，直接下一步）
 - 完成Server酱的注册和绑定 [点我直达](http://sc.ftqq.com)
 - 在 [发送选项](http://sc.ftqq.com/?c=code) 这一页中找到SCYKEY
 ![SCKEY](https://tva1.sinaimg.cn/large/0062ozFkgy1gkuqbjv12aj30qw04vmx6.jpg)
