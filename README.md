@@ -17,7 +17,7 @@
 - 打开抓包软件抓包, 再打开阳光体育 App 登录, 在所有的数据包中找后缀有 `IMEICode= ` 的 URL 请求, 等号后面的字段即为七天有效的 `IMEICode` (若多次没抓到: 可来回切换几次飞行模式, 杀掉 App 后台重复尝试多次)
 
 4.配置Github Actions
-- 打开工程的`secrets`，在其中将SCKEY和IMEICode填入
+- 打开工程的`secrets`，在其中将IMEICode填入
 ![4.1](https://tva1.sinaimg.cn/large/0062ozFkgy1gkuqbs421rj31b00l476b.jpg)
 - 打开`autorun.yml`，将时间改为你想让它每天按时跑的时间，默认为每天上午9点。
 ![4.2](https://tva1.sinaimg.cn/large/0062ozFkgy1gkuqbztqwbj30ly0gx3za.jpg)
